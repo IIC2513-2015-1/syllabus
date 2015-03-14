@@ -1,2 +1,17 @@
-# syllabus
-Página principal del curso
+# Programa
+
+## Equipo
+
+### Profesor
+
+| Nombre               | Sección | Github        |  Email         |
+|:-------------------- |:--------|:--------------| :--------------|
+| Jaime Navón          | 1       |              	| jnavon@ing.puc.cl |
+
+### Ayudantes
+
+| Nombre                | Github        | Email         |
+|:--------------------- |:--------------|:--------------|
+| Matias Ezequiel      	|               | [&#109;&#101;&#105;&#111;&#114;&#100;&#097;&#099;&#064;&#117;&#099;&#046;&#099;&#108;](mailto:) |
+| Patricio López       	| [@mrpatiwi](https://github.com/mrpatiwi) | [&#112;&#101;&#108;&#111;&#112;&#101;&#122;&#050;&#064;&#117;&#099;&#046;&#099;&#108;](mailto:)
+| David Peña          	|               | [&#100;&#110;&#112;&#101;&#110;&#097;&#064;&#117;&#099;&#046;&#099;&#108;](mailto:) |
