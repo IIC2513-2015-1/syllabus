@@ -1,7 +1,7 @@
 ## Tabla de contenidos
 * [Programa](#programa)
     * [Equipo](#equipo)
-    	* [Profesore](#profesore)
+    	* [Profesor](#profesor)
     	* [Ayudantes](#ayudantes)
     * [Objetivos](#objetivos)
     * [Contenidos](#contenidos)
