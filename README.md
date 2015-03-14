@@ -21,13 +21,13 @@
 
 | Nombre               | Sección | Github        |  Email         |
 |:-------------------- |:--------|:--------------| :--------------|
-| Jaime Navón          | 1       |              	| jnavon@ing.puc.cl |
+| Jaime Navón          | 1       |  [@jnavon](https://github.com/jnavon)| jnavon@ing.puc.cl |
 
 ### Ayudantes
 
 | Nombre                | Github        | Email         |
 |:--------------------- |:--------------|:--------------|
-| Matias Iordache      	|               | [&#109;&#101;&#105;&#111;&#114;&#100;&#097;&#099;&#064;&#117;&#099;&#046;&#099;&#108;](mailto:) |
+| Matias Iordache      	| [@meiordac](https://github.com/meiordac) | [&#109;&#101;&#105;&#111;&#114;&#100;&#097;&#099;&#064;&#117;&#099;&#046;&#099;&#108;](mailto:) |
 | Patricio López       	| [@mrpatiwi](https://github.com/mrpatiwi) | [&#112;&#101;&#108;&#111;&#112;&#101;&#122;&#050;&#064;&#117;&#099;&#046;&#099;&#108;](mailto:)
 | David Peña          	|               | [&#100;&#110;&#112;&#101;&#110;&#097;&#064;&#117;&#099;&#046;&#099;&#108;](mailto:) |
 
