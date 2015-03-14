@@ -1,3 +1,18 @@
+## Tabla de contenidos
+* [Programa](#programa)
+    * [Equipo](#equipo)
+    	* [Profesore](#profesore)
+    	* [Ayudantes](#ayudantes)
+    * [Objetivos](#objetivos)
+    * [Contenidos](#contenidos)
+    * [Metodología](#metodologia)
+    * [Evaluación](#evaluacion)
+    * [Bibliografía](#bibliografia)
+    * [Politica de integridad academica](#politica-de-integridad-academica)
+* [Foro](#foro)
+    * [Etiquetas](#etiquetas)
+    * [Procedimiento](#procedimiento)
+
 # Programa
 
 ## Equipo
@@ -108,8 +123,44 @@ La nota de participación contempla actividades de distinto tipo desarrolladas e
     * Rusty, E. "XML 1.1 Bible (3rd Ed)" Wiley 2004
     * Rusty, E. and Means W.S. "XML in a Nutshell, Third Edition" OReilly 2004
 
-## Política de Integridad Académica
+## Politica de Integridad Academica
 
 Los alumnos de la Escuela de Ingeniería de la Pontificia Universidad Católica de Chile deben mantener un comportamiento acorde a la Declaración de Principios de la Universidad. En particular, se espera que mantengan altos estándares de honestidad académica. Cualquier acto deshonesto o fraude académico está prohibido; los alumnos que incurran en este tipo de acciones se exponen a un Procedimiento Sumario. Es responsabilidad de cada alumno conocer y respetar el documento sobre Integridad Académica publicado por la Dirección de Docencia de la Escuela de Ingeniería en el SIDING
 Específicamente, para los cursos del Departamento de Ciencia de la Computación, rige obligatoria- mente la siguiente política de integridad académica. Todo trabajo presentado por un alumno para los efectos de la evaluación de un curso debe ser hecho individualmente por el alumno, sin apoyo en material de terceros. Por “trabajo” se entiende en general las interrogaciones escritas, las tareas de programación u otras, los trabajos de laboratorio, los proyectos, el examen, entre otros. Si un alumno copia un trabajo, obtendrá nota final 1.1 en el curso y se solicitará a la Dirección de Pregrado de la Escuela de Ingeniería que no le permita retirar el curso de la carga académica semestral. Por “copia” se entiende incluir en el trabajo presentado como propio partes hechas por otra persona
 Obviamente, está permitido usar material disponible públicamente, por ejemplo, libros o contenidos tomados de Internet, siempre y cuando se incluya la referencia correspondiente. Lo anterior se entiende como complemento al Reglamento del Alumno de la Pontificia Universidad Católica de Chile Por ello, es posible pedir a la Universidad la aplicación de sanciones adicionales especificadas en dicho reglamento.
+
+# Foro
+
+La página de [Issues](https://github.com/IIC2233-2015-1/syllabus/issues) se utilizará como foro para preguntas. 
+
+## [Etiquetas](https://github.com/IIC2233-2015-1/syllabus/labels)
+
+Dentro de Issues, [las entradas se pueden etiquetar dentro de ciertas categorías predefinidas](https://help.github.com/articles/applying-labels-to-issues-and-pull-requests/) para mantener el orden y facilitar la búsquda de problemas similares. Una entrada puede tener múltiples etiquetas, asegúrate de marcar las necesarias.
+
+* [Ausencia de material prometido](https://github.com/IIC2233-2015-1/syllabus/labels/Ausencia%20de%20material%20prometido): para solicitar material que no haya sido subido al repositorio.
+* [Duda código](https://github.com/IIC2233-2015-1/syllabus/labels/Duda%20c%C3%B3digo): sobre métodos, clases, sintaxis, PEP8.
+* [Duda enunciado](https://github.com/IIC2233-2015-1/syllabus/labels/Duda%20enunciado): sobre el enunciado de la tarea.
+* [Duda interrogación](https://github.com/IIC2233-2015-1/syllabus/labels/Duda%20interrogaci%C3%B3n): sobre fechas, contenido, recorreción de interrogaciones.
+* [Duda materia](https://github.com/IIC2233-2015-1/syllabus/labels/Duda%20materia): sobre conceptos y/o temas vistos en clases o fuera de esta.
+* [Duplicada](https://github.com/IIC2233-2015-1/syllabus/labels/Duplicada): pregunta repetida, se hará referencia a la pregunta original. 
+* [Git](https://github.com/IIC2233-2015-1/syllabus/labels/Git): Preguntas relacionadas con `git`
+* [I'm a Teapot](https://github.com/IIC2233-2015-1/syllabus/labels/I%27m%20a%20Teapot): broma geek ( ͡° ͜ʖ ͡°)
+* [Inválida](https://github.com/IIC2233-2015-1/syllabus/labels/Inv%C3%A1lida): la pregunta no cumple los estándares o viola el procedimiento descrito abajo.
+* [Meta-pregunta](https://github.com/IIC2233-2015-1/syllabus/labels/Meta-pregunta): pregunta sobre cómo y qué preguntar.
+* [Tengo un error](https://github.com/IIC2233-2015-1/syllabus/labels/Tengo%20un%20error): para preguntar sobre errores o bugs en códigos. 
+
+## Procedimiento
+
+Antes de postear:
+* Buscar en internet hasta encontrar la solución.
+* Si pasan horas y el problema persiste, entrar a [Issues](https://github.com/IIC2233-2015-1/syllabus/issues).
+* Buscar si alguien tiene la misma pregunta o problema.
+	* Si encuestra un post marcado como resueto, pero no te satisface la respuesta, puedes comentar la issue y **volver a abrirla**.
+* En caso de no encontrar un post que te sirva, lo creamos presionando **[New issue](https://github.com/IIC2233-2015-1/syllabus/issues/new)**.
+* Escribir una entrada **explicando bien el problema o pregunta**.
+* Asignar las etiquetas (labels) correspondientes, puedes dejarlas en blanco si ninguna es correspondida.
+* Publicar.
+
+> Tanto al publicar como comentar, se debe atenerse a las **normas del curso**, además debes utilizar [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code) cuando sea necesario. Por ejemplo, cuando se necesita mostrar código o mensajes de error.
+
+Una vez resuelto el problema, dar las **gracias** y **cerrar la issue**.
