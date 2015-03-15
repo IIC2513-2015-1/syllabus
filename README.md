@@ -143,6 +143,7 @@ Dentro de Issues, [las entradas se pueden etiquetar dentro de ciertas categoría
 * [Duda interrogación](https://github.com/IIC2513-2015-1/syllabus/labels/Duda%20interrogaci%C3%B3n): sobre fechas, contenido, recorreción de interrogaciones, etc.
 * [Duda materia](https://github.com/IIC2513-2015-1/syllabus/labels/Duda%20materia): sobre conceptos y/o temas vistos en clases o fuera de esta.
 * [Duplicada](https://github.com/IIC2513-2015-1/syllabus/labels/Duplicada): pregunta repetida, se hará referencia a la pregunta original. 
+* [Gemas](https://github.com/IIC2513-2015-1/syllabus/labels/Gemas): Consultas si se puede utilizar cierta gema o no.
 * [Git](https://github.com/IIC2513-2015-1/syllabus/labels/Git): Preguntas relacionadas con `git`
 * [I'm a Teapot](https://github.com/IIC2513-2015-1/syllabus/labels/I%27m%20a%20Teapot): broma geek ( ͡° ͜ʖ ͡°)
 * [Inválida](https://github.com/IIC2513-2015-1/syllabus/labels/Inv%C3%A1lida): la pregunta no cumple los estándares o viola el procedimiento descrito abajo.
