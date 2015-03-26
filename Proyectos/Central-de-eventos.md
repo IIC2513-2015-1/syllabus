@@ -10,7 +10,7 @@
 # Proyecto
 
 ## Vision General
-> Idea original de: Grupo 5
+> Idea original de: Grupo 7
 
 Consiste en hacer una aplicación para **difundir eventos culturales** tales como:
 * Obras de teatro
