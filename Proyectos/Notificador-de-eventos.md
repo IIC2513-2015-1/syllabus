@@ -10,7 +10,7 @@
 # Proyecto
 
 ## Vision General
-> Idea original de: Grupo 7
+> Idea original de: Grupo 5
   
 El principal objetivo de aplicación será informar sobre los eventos culturales de manera geográfica en Santiago. 
 La idea es poder ser notificado de actividades como:
