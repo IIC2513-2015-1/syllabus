@@ -50,7 +50,3 @@ A grandes razgos, el proyecto debe cumplir con los siguientes requerimientos.
  * Sistema de escritura látex para publicar preguntas o material directo en la web y no mediante pdf.
  * Sistema de videos, que permitan subir material audiovisual o incluso clases en línea.
 
-# Entregas
-
-Esta sección se irá actualizando a medida que sean publicadas los requerimientos para cada entrega.
-
