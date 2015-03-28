@@ -52,7 +52,7 @@ Los grupos asignamos a cada proyecto son:
 |:-----------------|:-----------------|
 | ADRIAN SOTO | [@alanezz](https://github.com/alanezz) |
 | RODRIGO GOMEZ | [@rkoco](https://github.com/rkoco) |
-| JURGEN HEYSEN | **null** |
+| JURGEN HEYSEN | [@jheysen](https://github.com/jheysen) |
 
 | Grupo 8 | |
 |:-----------------|:-----------------|
