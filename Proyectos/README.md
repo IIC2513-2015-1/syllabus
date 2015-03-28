@@ -69,4 +69,4 @@ Los grupos asignamos a cada proyecto son:
 |:-----------------|:-----------------|
 | FABRIZIO CAVADA | [@frcavada](https://github.com/frcavada) |
 | NATALIA GARCIA | [@nagarbu](https://github.com/nagarbu) |
-| VICENTE PERALTA | **null** |
+| VICENTE PERALTA | [@vicente170](https://github.com/vicente170) |
