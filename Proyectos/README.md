@@ -7,6 +7,7 @@ Los requerimientos para cada entrega de cada proyecto se irán agregando al fina
 Los grupos asignamos a cada proyecto son: 
 
 ### Proyecto 1 - [Central de Eventos](https://github.com/IIC2513-2015-1/syllabus/blob/master/Proyectos/Central-de-eventos.md)
+Ayudante: **Patricio López** - [@mrpatiwi](https://github.com/mrpatiwi) - pelopez2@uc.cl
 
 | Grupo 7 | |
 |:-----------------|:-----------------|
@@ -27,6 +28,7 @@ Los grupos asignamos a cada proyecto son:
 | ENRIQUE CORREA | [@isseu](https://github.com/isseu) |
 
 ### Protecto 2 - [Notificador de Eventos](https://github.com/IIC2513-2015-1/syllabus/blob/master/Proyectos/Notificador-de-eventos.md)
+Ayudante: **David Peña** - [@dnpena](https://github.com/dnpena) - dnpena@uc.cl
 
 | Grupo 5 | |
 |:-----------------|:-----------------|
@@ -47,6 +49,7 @@ Los grupos asignamos a cada proyecto son:
 | SANTIAGO MARTI | **null** |
 
 ### Protecto 3 - [Plataforma de Cursos](https://github.com/IIC2513-2015-1/syllabus/blob/master/Proyectos/Plataforma-de-cursos.md)
+Ayudante: **Matias Iordache** - [@meiordac](https://github.com/meiordac) - meiordac@uc.cl
 
 | Grupo 2 | |
 |:-----------------|:-----------------|
