@@ -19,7 +19,7 @@ Ayudante: **Patricio López** - [@mrpatiwi](https://github.com/mrpatiwi) - pelop
 |:-----------------|:-----------------|
 | SIMON AGUILERA | [@saaguile](https://github.com/saaguile) |
 | PIERRE CHAUMIER | [@pvchaumier](https://github.com/pvchaumier) |
-| HECTOR QUIROGA | **null** |
+| Baltazar Ochagavia | [@bochagavia](https://github.com/bochagavia) |
 
 | Grupo 1 | |
 |:-----------------|:-----------------|
