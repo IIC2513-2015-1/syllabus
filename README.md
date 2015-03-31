@@ -10,6 +10,9 @@
     * [Bibliografía](#bibliografia)
     * [Política de integridad académica](#politica-de-integridad-academica)
 * [Proyectos](#proyectos)
+* [Wiki](#wiki)
+    * [Getting Started](#getting-started) 
+    * [Gemas](#gemas) 
 * [Foro](#foro)
     * [Etiquetas](#etiquetas)
     * [Procedimiento](#procedimiento)
@@ -139,6 +142,17 @@ Los proyectos que se desarrollarán durante el curso serán:
 * [Plataforma de Cursos](https://github.com/IIC2513-2015-1/syllabus/blob/master/Proyectos/Plataforma-de-cursos.md)
 
 Más información de los proyectos [aquí](https://github.com/IIC2513-2015-1/syllabus/tree/master/Proyectos)
+
+
+# [Wiki](https://github.com/IIC2513-2015-1/syllabus/wiki)
+Hay harta información útil en la Wiki del curso, la pueden encontrar en el menú lateral derecho o presionando [aquí](https://github.com/IIC2513-2015-1/syllabus/wiki).
+
+### [Getting Started](https://github.com/IIC2513-2015-1/syllabus/wiki/Getting-Started)
+Para comenzar con la aplicación Rails, pueden revisar esta [sección](https://github.com/IIC2513-2015-1/syllabus/wiki/Getting-Started) en la wiki.
+
+### [Gemas](https://github.com/IIC2513-2015-1/syllabus/wiki/Gemas-permitidas-&-prohibidas)
+A modo de máximizar el aprendizaje ~~y diversión~~, no todas las gemas están permitidas. Es importante que revisen esa [sección](https://github.com/IIC2513-2015-1/syllabus/wiki/Gemas-permitidas-&-prohibidas) en la wiki.
+
 
 # Foro
 
