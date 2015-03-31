@@ -24,7 +24,7 @@ Ayudante: **Patricio López** - [@mrpatiwi](https://github.com/mrpatiwi) - pelop
 | Grupo 1 | |
 |:-----------------|:-----------------|
 | CARLOS AGUIRRE | [@C-Aguirre017](https://github.com/C-Aguirre017) | 
-| JAVIER CHICAO | **null** |
+| JAVIER CHICAO | [@jachicao](https://github.com/jachicao) |
 | ENRIQUE CORREA | [@isseu](https://github.com/isseu) |
 
 ### Protecto 2 - [Notificador de Eventos](https://github.com/IIC2513-2015-1/syllabus/blob/master/Proyectos/Notificador-de-eventos.md)
