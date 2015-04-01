@@ -6,6 +6,8 @@
   * [Funcionalidades](#funcionalidades)
     * [Principales](#principales)
     * [Secundarias](#secundarias)
+* [Entregas](#entregas)
+    * [Entrega 1](#entrega-1)
 
 # Proyecto
 
