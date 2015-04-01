@@ -6,6 +6,8 @@
   * [Funcionalidades](#funcionalidades)
     * [Principales](#principales)
     * [Secundarias](#secundarias)
+* [Entregas](#entregas)
+	* [Entrega 1](#entrega-1)
     
 # Proyecto
 
@@ -85,3 +87,35 @@ A grandes razgos, el proyecto debe cumplir con los siguientes requerimientos.
 * Se deberá contar con interacción entre redes sociales (Facebook ,Youtube, etc).
 * Se deberá poder subir videos y fotos por evento.
 * Se podrá resumir experiencias de los usuarios que hayan asistido a eventos, combinando fotos que compartan o archivos en general.
+
+
+# Entregas
+
+Se evaluará el **último commit antes del plazo límite** en la branch `master`. 
+
+## Entrega 1
+> Plazo hasta: 15 de abril a las 23:59
+
+Para esta entrega se necesita que al menos estén las entidades **creadas** y **bien relacionadas**. También deben estar al menos las vistas `index.html`, `show.hml`, `edit.html` y `new.html` de los modelos (que las necesiten), para esto necesitan tener lo básico de los ``controllers`` y las ``routes``.
+
+#### Requerimientos:
+* Modelos de las clases que satisfagan los requerimientos de su aplicación.
+	* Migraciones bien hechas
+	* Clases relacionadas
+	* Desde un punto de vista OOP, los métodos/funciones
+		* Por ejemplo, *que los usuarios tengan un método para agregar a otro usuario como amigo.* 
+* Controllers, vistas y rutas
+	* Al menos `index.html` y `show.hml`. Con sus métodos respectivos en los controllers y las rutas para poder acceder a estos.
+	* Las vistas para poder crear y modificar entidades del modelo. 
+* Se deben crear `seeds` suficientes para poder apreciar a estas vistas con contenido. 
+* **Se busca el esqueleto de la aplicación.**
+	* Se recomienda usar los generadores de Rails.
+
+#### No es necesario
+* No es necesario que los métodos de los modelos se reflejen en las vistas ni controladores (por ahora).
+* No es necesario que las `forms` sean complejas o con elementos *nested*. Esto se pedirá en detalle cuando se manejen mejor los permisos y se pidan vistas más completas. 
+* No es necesario que queden perfectas las relaciones, puede que después las tengan que mejorar. Asegúrense de hacer bien las migraciones para no tener problemas en un futuro.
+* No es necesario un diseño. Basta solo el esqueleto en HTML.
+* No es necesario el manejo de permisos (administradores, profesores o alumnos); ni sistemas de login. 
+
+

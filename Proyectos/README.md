@@ -1,6 +1,12 @@
 # Entregas
 
-Los requerimientos para cada entrega de cada proyecto se irán agregando al final del archivo correspondiente. Se informará más sobre esto dentro de unos días.
+Los requerimientos para cada entrega de cada proyecto se irán agregando al final del archivo correspondiente. 
+
+| Entrega   | Publicación | Entrega  |
+|:----------|:------------|:---------|
+| Entrega 1 | 31 Marzo    | 15 Abril |
+
+Se evaluará el **último commit antes del plazo límite** en la branch `master`. 
 
 # Proyectos
 
