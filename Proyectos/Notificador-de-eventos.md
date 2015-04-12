@@ -94,7 +94,7 @@ A grandes razgos, el proyecto debe cumplir con los siguientes requerimientos.
 Se evaluará el **último commit antes del plazo límite** en la branch `master`. 
 
 ## Entrega 1
-> Plazo hasta: 15 de abril a las 23:59
+> Plazo hasta: Domingo 19 de abril a las 23:59
 
 Para esta entrega se necesita que al menos estén las entidades **creadas** y **bien relacionadas**. También deben estar al menos las vistas `index.html`, `show.hml`, `edit.html` y `new.html` de los modelos (que las necesiten), para esto necesitan tener lo básico de los ``controllers`` y las ``routes``.
 
