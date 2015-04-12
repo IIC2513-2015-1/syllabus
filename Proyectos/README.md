@@ -4,7 +4,7 @@ Los requerimientos para cada entrega de cada proyecto se irán agregando al fina
 
 | Entrega   | Publicación | Entrega  |
 |:----------|:------------|:---------|
-| Entrega 1 | 31 Marzo    | 15 Abril |
+| Entrega 1 | 31 Marzo    | 19 Abril |
 
 Se evaluará el **último commit antes del plazo límite** en la branch `master`. 
 
