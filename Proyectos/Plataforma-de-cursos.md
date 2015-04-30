@@ -8,6 +8,7 @@
     * [Secundarias](#secundarias)
 * [Entregas](#entregas)
     * [Entrega 1](#entrega-1)
+    * [Entrega 2](#entrega-2)
 
 # Proyecto
 
@@ -81,4 +82,66 @@ Para esta entrega se necesita que al menos estén las entidades **creadas** y **
 * No es necesario el manejo de permisos (administradores, profesores o alumnos); ni sistemas de login. 
 
 
+-------------
 
+## Entrega 2
+> Plazo hasta: Domingo 17 de mayo a las 23:59
+
+#### Requerimientos comunes
+
+Para esta entrega se necesita que todos los proyectos tengan:
+
+* Validaciones en los modelos.
+
+* Frontend:
+    * Una página de inicio que sea navegable y que permita acceder a los recursos.
+    * Flujo de navegación. Es decir, poder recorrer la página a través de *links*.
+    * Estilo:
+        * Respetar **buenas prácticas** de CSS.
+        * Separar el estilo de la estructura de la página.
+        * Intentar que se vea lo *"menos scaffold posible"*.
+        * No se espera un diseño espectacular. 
+            * Sin embargo, los entusiastas serán bien recibidos.
+        
+* Sesiones de usuario:
+    * Tener la capacidad de poder registrar usuarios. 
+        * Usar gema: [bcrypt-ruby](https://github.com/codahale/bcrypt-ruby).
+    * El usuario debe poder modificar sus datos.
+    * El usuario debe poder cerrar sesión.
+    * El usuario debe poder borrar su cuenta.
+    * Contar con las vistas necesarias para estos puntos.
+
+        > **Claramente** un usuario no debe poder modificar los datos de otros usuarios o recursos que no le correspondan. **Esto se debe cuidar a nivel interno de la aplicación como en las vistas.**
+
+* Testing:
+    * Usar **[RSpec](https://github.com/rspec/rspec-rails)** para realizar al menos 5 tests para funcionalidades relevantes y delicadas para la aplicación. Se deberá dejar una explicación de por qué se eligió testear 
+
+        > **Por ejemplo**: validaciones, dependencias, manejo de excepciones, etc.
+    * Documentación: [RSpec Rails 3.2](https://relishapp.com/rspec/rspec-rails/docs)
+
+Es importante recordar que **están prohibidas** las gemas y frameworks como [Devise](https://github.com/plataformatec/devise) para el manejo de sesiones o [Bootstrap](http://getbootstrap.com/) (o similares) para el estilo. 
+
+Se recomienda usar la capacidad de *anidar recursos* de Rails. Pueden leer más de esto en la documentación oficial: http://guides.rubyonrails.org/routing.html#nested-resources. También pueden revisar los [ejemplos subidos a Github](https://github.com/IIC2513-2015-1).
+
+#### Requerimientos particulares
+
+Para la **Plaraforma de cursos** se necesita que lo siguiente:
+
+Deben estar creados los distintos roles de usuarios, recordar que hay administradores, profesores y alumnos. (se debe crear este administrador en el archivo "seed").
+
+Los administradores deben tener la capacidad de crear cursos y asignar colaboradores. También deben tener la capacidad de moderar cursos.
+
+Los profesores tienen que poder crear un curso con información relevante asociada al mismo, debe poder asignar colaboradores (ayudantes, por ejemplo). y finalmente asignar módulos al curso (Foro, sistema de cuestionarios, calificaciones, asistencia, repositorio de material).
+
+Un alumno debe poder ingresar a ingresar a un curso privado y tener acceso a toda la información, si es que el alumno fue inscrito en el curso. Ademas un alumno debe poder acceder a cualquier curso público y hacer uso del contenido que este publicado.
+
+##### En términos generales
+
+Cualquier progreso adicional o funcionalidad extra que *agregue valor* a su aplicación es bienvenida. 
+
+No duden en hacer preguntas al mail meiordac@uc.cl
+
+#### No es necesario
+* No es necesario que el *frontend* sea [responsivo](http://es.wikipedia.org/wiki/Dise%C3%B1o_web_adaptable).
+* No es necesario que la aplicación esté montada en [Heroku](https://www.heroku.com/).
+* No es necesario el uso de Javascript, pero pueden usarlo si lo necesitan.

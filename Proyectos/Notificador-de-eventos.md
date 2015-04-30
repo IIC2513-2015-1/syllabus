@@ -8,6 +8,7 @@
     * [Secundarias](#secundarias)
 * [Entregas](#entregas)
 	* [Entrega 1](#entrega-1)
+	* [Entrega 2](#entrega-2)
     
 # Proyecto
 
@@ -119,3 +120,65 @@ Para esta entrega se necesita que al menos estén las entidades **creadas** y **
 * No es necesario el manejo de permisos (administradores, profesores o alumnos); ni sistemas de login. 
 
 
+-------------
+
+## Entrega 2
+> Plazo hasta: Domingo 17 de mayo a las 23:59
+
+#### Requerimientos comunes
+
+Para esta entrega se necesita que todos los proyectos tengan:
+
+* Validaciones en los modelos.
+
+* Frontend:
+    * Una página de inicio que sea navegable y que permita acceder a los recursos.
+    * Flujo de navegación. Es decir, poder recorrer la página a través de *links*.
+    * Estilo:
+        * Respetar **buenas prácticas** de CSS.
+        * Separar el estilo de la estructura de la página.
+        * Intentar que se vea lo *"menos scaffold posible"*.
+        * No se espera un diseño espectacular. 
+            * Sin embargo, los entusiastas serán bien recibidos.
+        
+* Sesiones de usuario:
+    * Tener la capacidad de poder registrar usuarios. 
+		* Usar gema: [bcrypt-ruby](https://github.com/codahale/bcrypt-ruby). 
+    * El usuario debe poder modificar sus datos.
+    * El usuario debe poder cerrar sesión.
+    * El usuario debe poder borrar su cuenta.
+    * Contar con las vistas necesarias para estos puntos.
+
+        > **Claramente** un usuario no debe poder modificar los datos de otros usuarios o recursos que no le correspondan. **Esto se debe cuidar a nivel interno de la aplicación como en las vistas.**
+
+* Testing:
+    * Usar **[RSpec](https://github.com/rspec/rspec-rails)** para realizar al menos 5 tests para funcionalidades relevantes y delicadas para la aplicación. Se deberá dejar una explicación de por qué se eligió testear 
+
+        > **Por ejemplo**: validaciones, dependencias, manejo de excepciones, etc.
+    * Documentación: [RSpec Rails 3.2](https://relishapp.com/rspec/rspec-rails/docs)
+
+Es importante recordar que **están prohibidas** las gemas y frameworks como [Devise](https://github.com/plataformatec/devise) para el manejo de sesiones o [Bootstrap](http://getbootstrap.com/) (o similares) para el estilo. 
+
+Se recomienda usar la capacidad de *anidar recursos* de Rails. Pueden leer más de esto en la documentación oficial: http://guides.rubyonrails.org/routing.html#nested-resources. También pueden revisar los [ejemplos subidos a Github](https://github.com/IIC2513-2015-1).
+
+#### Requerimientos particulares
+
+Para la **Notificador de Eventos** se necesita que lo siguiente:
+
+Los usuarios deben poder adquirir roles dentro de aplicación. Estos roles deberán ser validados por un administrador y por creadores de eventos (se debe crear este administrador en el archivo "seed"). 
+
+Los usuarios deben poder crear y subscribirse a **eventos** quí deberán poder comentarios, calificar, marcar asistencia, etc. Deben estar presentes, funcionales y visibles los privilegios de organizadores.
+
+Los usuarios deben poder crear **alertas**. Estas deberán incluir el email de los usuarios (esto para el desarrollo futuro) y los usuarios deberán ser capaces de salirse de estas alertas. También se requiere que hayan relaciones por interes entre los usuarios (eso implica ciertos privilegios como poder contactar gente de tu mismo interpes).
+
+##### En términos generales
+
+Cualquier progreso adicional o funcionalidad extra que *agregue valor* a su aplicación es bienvenida.
+
+No duden en preguntarme cosas al mail: dnpena@uc.cl
+
+#### No es necesario
+* No es necesario que el *frontend* sea [responsivo](http://es.wikipedia.org/wiki/Dise%C3%B1o_web_adaptable).
+* No es necesario que se puedan subir imágenes. Por ejemplo: de perfil.
+* No es necesario que la aplicación esté montada en [Heroku](https://www.heroku.com/).
+* No es necesario el uso de Javascript, pero pueden usarlo si lo necesitan.
