@@ -131,7 +131,7 @@ Para esta entrega se necesita que al menos estén las entidades **creadas** y **
 -------------
 
 ## Entrega 2
-> Plazo hasta: Domingo 17 de mayo a las 23:59
+> Plazo hasta: Martes 19 de mayo a las 23:59
 
 #### Requerimientos comunes
 
