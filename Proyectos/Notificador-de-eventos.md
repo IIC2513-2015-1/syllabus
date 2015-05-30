@@ -7,8 +7,9 @@
     * [Principales](#principales)
     * [Secundarias](#secundarias)
 * [Entregas](#entregas)
-	* [Entrega 1](#entrega-1)
-	* [Entrega 2](#entrega-2)
+    * [Entrega 1](#entrega-1)
+    * [Entrega 2](#entrega-2)
+    * [Entrega 3](#entrega-3)
     
 # Proyecto
 
@@ -182,3 +183,38 @@ No duden en preguntarme cosas al mail: dnpena@uc.cl
 * No es necesario que se puedan subir imágenes. Por ejemplo: de perfil.
 * No es necesario que la aplicación esté montada en [Heroku](https://www.heroku.com/).
 * No es necesario el uso de Javascript, pero pueden usarlo si lo necesitan.
+
+
+-------------
+
+## Entrega 3
+> Plazo hasta: Domingo 14 de junio a las 23:59
+
+#### Requerimientos comunes
+
+Para esta entrega se necesita que todos los proyectos cumplan como mínimo:
+
+* Su aplicación debe estar **montada** y **funcional** en **[Heroku](https://www.heroku.com/)**. 
+    * Es necesario que se especifique la URL en el `README.md` de su proyecto.
+* Implementar *Mailers* para enviarle *notificaciones* al usuario cuando suceda algo de importancia. Deben existir **al menos 5** acciones distintas que gatillen el envío de correo(s).
+    * El correo enviado debe entregar detalles de la interacción. Por ejemplo, si es sobre algún comentario recibido, se debe informar quién fue el autor y el contenido. 
+* Consumir alguna **API** externa gratuita pero que requiera registro por parte de los desarrolladores y que provea información de valor a su aplicación.
+    * Al momento de montar la aplicación en Heroku se debe procurar que **en ningún momento el ayudante tenga acceso a su `API KEY`** cuando revise su repositorio. Es decir, no debe estar guardada como un *string* en su repositorio.
+    * Es trabajo del grupo investigar cómo lograr esto y **debe indicar en el `README.md` cómo lo realizó.**
+* Realizar *[scrapping](http://es.wikipedia.org/wiki/Web_scraping)* en algún sitio que provea otra información de valor para su aplicación.
+    * Esto se debe hacer en alguna `rake task`,  durante alguna *request* o en el archivo `seed.rb`.
+    * Una gema recomendada para esto es [Nokogiri](https://github.com/sparklemotion/nokogiri).
+* Mediante el uso de **Javascript** y **AJAX** mejorar la experiencia del usuario (puede usar [JQuery](https://github.com/jquery/jquery)). Se pide **al menos** implementar:
+    1.  Validar los formularios de creación de usuarios (por ejemplo, no permitir una *primary key* repetida).
+    1. Realizar alguna acción entre usuarios, como *"seguir"*, *"agregar a amigos"* o algo equivalente en su aplicación.
+    1. Realizar alguna acción con algún recurso, como *"like"*, *"comentar"* o algo equivalente en su aplicación.
+* Permitir que los usuarios puedan subir imágenes a la aplicación.
+    * **Al menos** dar la posibilidad de subir imagen de perfil y alguna imagen para algún recurso que ellos creen/administren, etc.
+    * Se recomienda usar la gema [paperclip](https://github.com/thoughtbot/paperclip).
+
+
+#### Requerimientos particulares
+
+* Se debe implementar un servicio de alertas utilizando la lista de mails de los usuario. 
+* Los mensajes iternos de la aplcación deben poder ser leídos y respondidos en la aplicación.
+* Se debe implementar en el *frontend* de la aplicación al menos una vista con un mapa interactivo. Queda a criterio suyo qué servicio usar, cómo usarlo y si va usar alguna gema para eso o no. El mapa no satisface el [requerimiento común](#requerimientos-comunes) de *Consumir alguna API externa*.
