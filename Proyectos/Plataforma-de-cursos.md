@@ -39,8 +39,9 @@ A grandes razgos, el proyecto debe cumplir con los siguientes requerimientos.
 * **Página principal (una vez logeado)**:
  * Sistema de buscador de cursos.
  * Recomendación de cursos.
+ * Acceso a visualización de estadísticas de cursos interesantes, cursos nuevos, contenido m as visto, etc.
  * Acceso a visualización de tareas por hacer en cursos inscritos, estadísticas del rendimiento individual, notificaciones de los diversos cursos (privados y no privados), etc.
- *Acceso a visualización de estadísticas de cursos interesantes, cursos nuevos, contenido m as visto, etc.
+ 
 * **Curso Privado**:
  * Este curso tiene la capacidad de llevar registro de información que una entidad académica desearía tener, como vincular a los usuarios con su número de alumno en una institución, tener sistema de calificaciones, tener un foro con notificaciones al mail asociado, entre otros.
 * **Curso Público**:
@@ -178,4 +179,4 @@ Para esta entrega se necesita que todos los proyectos cumplan como mínimo:
 
 #### Requerimientos particulares
 
-* Se debe implementar en el *frontend* de la aplicación al menos una vista con un mapa interactivo. Queda a criterio suyo qué servicio usar, cómo usarlo y si va usar alguna gema para eso o no. El mapa no satisface el [requerimiento común](#requerimientos-comunes) de *Consumir alguna API externa*.
+* Se debe implementar en el *frontend* de la aplicación al menos una vista con un mapa interactivo con las salas de los cursos. Queda a criterio suyo qué servicio usar, cómo usarlo y si va usar alguna gema para eso o no. El mapa no satisface el [requerimiento común](#requerimientos-comunes) de *Consumir alguna API externa*.
