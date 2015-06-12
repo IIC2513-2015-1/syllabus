@@ -152,7 +152,7 @@ No duden en hacer preguntas al mail meiordac@uc.cl
 -------------
 
 ## Entrega 3
-> Plazo hasta: Domingo 14 de junio a las 23:59
+> Plazo hasta: Miércoles 17 de junio a las 23:59
 
 #### Requerimientos comunes
 
