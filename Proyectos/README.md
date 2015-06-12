@@ -6,7 +6,7 @@ Los requerimientos para cada entrega de cada proyecto se irán agregando al fina
 |:----------|:------------|:---------|
 | Entrega 1 | 31 Marzo    | 19 Abril |
 | Entrega 2 | 29 Abril    | 19 Mayo  |
-| Entrega 3 | 30 Mayo     | 14 Junio |
+| Entrega 3 | 30 Mayo     | 17 Junio |
 
 Se evaluará el **último commit antes del plazo límite** en la branch `master`. 
 
